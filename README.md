@@ -1,5 +1,5 @@
 # Python-SkLearn-PCA-unsupervised-ML-Algo-
-This notebook demonstrates the use of PCA to reduce features in a dataset on lithium ion batteries obtained from kaggle.
+
 
 ## The purpose of this notebook is to demonstrate knowledge in the use of Principle Component Analysis (PCA) to reduce dimensionality of features, for visualization and classification.
 ## PCA is a widely used unsupervised Machine Learning algorithm 
