@@ -7,6 +7,7 @@ This notebook demonstrates the use of PCA to reduce features in a dataset on lit
 ![PCA vs LDA](https://user-images.githubusercontent.com/114509328/200872657-94ebbcca-55f6-4df2-b578-63e82ae2ece6.jpg)
 
 The way PCA works, is the data is first projected along the axis where the variation is the highest. The data is first normalized and then the covariance of matrix is determined to identify highest eigen vector (EV). The EV corresponding to the lowest variation is then ignored. The hope is to capture the most variation while also reducing dimentionality. 
+The main difference between PCA vs LCA is that LCA maintains the grouping while PCA does not do a good job at it.
 
 In our particular example, the PCA approach did not yield satisfactory results as you can see in the scatter plot below.
 
